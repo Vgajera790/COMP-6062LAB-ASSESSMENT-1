@@ -13,13 +13,12 @@ footer{
     color: #1cb4ff;
 
 }
-@media(min-width: 768px){
+@media (max-width: 768px){
     body{
         background-color: #a6fbf1;
-        color: Text color #000;
+        color:  #000;
         font-family: Arial, Helvetica, sans-serif;
-
-    }
+    }   
 }
 img{
     border-radius: 30px;
